@@ -1,0 +1,2 @@
+Distribute sort of 10000 rand elements
+1402 milli seconds
